@@ -4,6 +4,7 @@
 | -------------------- | :-------------------------------------------------------------: |
 | BrillTech            |      [click here](https://nakshcoder.github.io/brilltech)       |
 | Travel Website       |    [click here](https://nakshcoder.github.io/travel-website)    |
+| Rupi Bazzar          |     [click here](https://nakshcoder.github.io/loanProvider)     |
 | Web Click India      |    [click here](https://nakshcoder.github.io/webclickindia)     |
 | Discord              |    [click here](https://nakshcoder.github.io/discord-server)    |
 | Razorpay             |       [click here](https://nakshcoder.github.io/razorpay)       |
